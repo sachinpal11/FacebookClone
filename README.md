@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sachinpal11/FacebookClone.git
    cd facebook-clone
    ```
 
