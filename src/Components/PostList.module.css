@@ -1,0 +1,6 @@
+.Postlist {
+    overflow-x: auto;
+    white-space: nowrap;
+    width: auto;
+    height: 90vh;
+}
